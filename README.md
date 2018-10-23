@@ -1,6 +1,7 @@
-# 723 week 7 class 1
+723 week 7 class 1
 
-# Example code:
+Example code:
+
   ```{r}
 # define the variables
 x=(-10:10)
@@ -15,12 +16,8 @@ plot(x,y, "l", col="blue", lwd=7, xlab="Argument", ylab="Function", main= "Funct
 # "col" defines the colour of the graphed line, "lwd" defines the width of the line.
 # then just add a grid to the line
 grid()
-
+```
 
 Follow the link to see how it works:
 
-
-### BTW
-
-Follow the link to get more about the GIT:
 [![https://youtu.be/BVEDuOLA93E](https://qph.fs.quoracdn.net/main-qimg-6929993537ea6ada1b2c8aac50c22dfd)](https://youtu.be/BVEDuOLA93E)
